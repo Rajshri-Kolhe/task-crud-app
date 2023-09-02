@@ -1,0 +1,48 @@
+{
+  "Users": [
+    {
+      "name": "rajshri kolhe",
+      "dept": "Electronics",
+      "email": "rajshri@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "Zayn ",
+      "dept": "Marketing",
+      "email": "z@gmail.com",
+      "password": "0123",
+      "id": 2
+    }
+  ],
+  "Tasks": [
+    {
+      "taskname": "Design the application",
+      "days": 5,
+      "status": "Completed",
+      "remark": "ok",
+      "id": 1
+    },
+    {
+      "taskname": "Implement",
+      "days": 1,
+      "status": "Pending",
+      "remark": "pending",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "taskname": "Trobleshooting",
+      "days": 3,
+      "status": "Completed",
+      "remark": "Ok"
+    },
+    {
+      "id": 4,
+      "taskname": "Documententaion ",
+      "days": 4,
+      "status": "Not yet started",
+      "remark": "pending"
+    }
+  ]
+}
