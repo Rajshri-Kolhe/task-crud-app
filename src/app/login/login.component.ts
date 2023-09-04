@@ -15,6 +15,7 @@ export class LoginComponent {
   constructor(private fb:FormBuilder,private http1:HttpSerService, private routess:Router){
 }
 ngOnInit(){
+  console.log("ngOnInit is initiated")
 this.createloginform()
 }
 createloginform(){
